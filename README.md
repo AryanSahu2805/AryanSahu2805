@@ -70,6 +70,7 @@
   - Mobile-responsive design with accessibility features
 - **Performance:** 99.9% uptime, handles 1000+ monthly queries
 - **AI Capabilities:** Context-aware conversations, sentiment analysis, auto-scaling
+- [🔗 View Project](https://github.com/AryanSahu2805/AI-Based-Chatbot-for-Customer-Support)
 
 ## 📈 Project Highlights
 
