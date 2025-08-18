@@ -98,7 +98,7 @@
 
 ## 📣 Let's Connect
 
-**LinkedIn:** [Connect with me](https://linkedin.com/in/aryan-sahu)  
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/aryansahu1/)  
 **Email:** asahustudent1@gmail.com  
 **Portfolio:** [View My Work](https://github.com/AryanSahu2805)  
 
