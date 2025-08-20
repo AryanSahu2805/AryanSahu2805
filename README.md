@@ -124,6 +124,6 @@
 ### 🌟 Current Focus
 Building innovative solutions that bridge AI, blockchain, and scalable architectures—focusing on **real-world impact, enterprise security, and exceptional user experience**.
 
-**Open to:** Full-Stack Developer roles, ML Engineer positions, Software Engineering internships  
+**Open to:** Full-Stack Developer roles, ML Engineer positions, Software Engineering roles  
 
 *Transforming ideas into scalable, intelligent solutions* 🚀
