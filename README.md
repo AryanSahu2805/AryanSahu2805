@@ -16,24 +16,6 @@
 
 ## 🚀 Featured Projects
 
-### 🗳️ Blockchain-Based Voting System
-**Enterprise-Grade Blockchain Voting Platform with AI-Powered Fraud Detection and Regulatory Compliance**
-
-- **Tech Stack:** Node.js, Solidity, MongoDB, Redis, Docker, React, TypeScript  
-- **Key Features:**
-  - Multi-Tenant SaaS platform with complete organization isolation  
-  - AI-powered fraud detection with machine learning  
-  - Zero-Knowledge Proofs for privacy-preserving voting  
-  - Upgradeable smart contracts with multi-network support  
-  - Regulatory compliance (GDPR, SOC2, HIPAA, PCI DSS)  
-- **Architecture:** Microservices, event-driven design, real-time updates, horizontal scaling  
-- **Enterprise Impact:** Demonstrates capabilities for CTO/VP Engineering and Enterprise Architect roles  
-- [🔗 View Project](https://github.com/AryanSahu2805/Blockchain-Based-Voting-System)
-
-![System Architecture](https://raw.githubusercontent.com/AryanSahu2805/Blockchain-Based-Voting-System/main/assets/architecture.png)
-
----
-
 ### 🤖 Enterprise AI Customer Support System
 **A comprehensive, enterprise-grade customer support platform combining AI automation with human agent escalation**
 
@@ -79,6 +61,22 @@
 - **User Experience:** Responsive design, email notifications, streak tracking  
 - **Analytics:** Comprehensive progress insights and goal completion trends  
 - [🔗 View Project](https://github.com/AryanSahu2805/HabitQuest)
+
+---
+
+### 🗳️ Blockchain-Based Voting System
+**Enterprise-Grade Blockchain Voting Platform with AI-Powered Fraud Detection and Regulatory Compliance**
+
+- **Tech Stack:** Node.js, Solidity, MongoDB, Redis, Docker, React, TypeScript  
+- **Key Features:**
+  - Multi-Tenant SaaS platform with complete organization isolation  
+  - AI-powered fraud detection with machine learning  
+  - Zero-Knowledge Proofs for privacy-preserving voting  
+  - Upgradeable smart contracts with multi-network support  
+  - Regulatory compliance (GDPR, SOC2, HIPAA, PCI DSS)  
+- **Architecture:** Microservices, event-driven design, real-time updates, horizontal scaling  
+- **Enterprise Impact:** Demonstrates capabilities for CTO/VP Engineering and Enterprise Architect roles  
+- [🔗 View Project](https://github.com/AryanSahu2805/Blockchain-Based-Voting-System)
 
 ---
 
