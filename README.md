@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Aryan Sahu!
 
 🎓 **Computer Science Honors Student** at Georgia State University  
-💡 **Passionate about Full-Stack Development, AI, and Scalable Solutions**  
+💡 **Passionate about Software Engineering, Full-Stack Development, AI, and Scalable Solutions**  
 🌐 **Building software that solves real-world problems**
 
 ## 🛠️ Tech Stack
@@ -124,6 +124,6 @@
 ### 🌟 Current Focus
 Building innovative solutions that bridge AI, blockchain, and scalable architectures—focusing on **real-world impact, enterprise security, and exceptional user experience**.
 
-**Open to:** Full-Stack Developer roles, ML Engineer positions, Software Engineering roles  
+**Open to:** Software Engineering roles, Full-Stack Developer roles, ML Engineer positions  
 
 *Transforming ideas into scalable, intelligent solutions* 🚀
