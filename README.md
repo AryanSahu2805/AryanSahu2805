@@ -92,7 +92,7 @@
   - Role-based access control, JWT authentication, secure API-first architecture  
 - **Architecture:** Kubernetes-first, microservices, WebSocket real-time dashboards, plugin support  
 - **Observability:** Pre-built Grafana dashboards, SLA tracking, predictive analytics  
-- [🔗 View Project]((https://github.com/AryanSahu2805/DevOpsPilot.git))
+- [🔗 View Project](https://github.com/AryanSahu2805/DevOpsPilot.git)
 
 ---
 
