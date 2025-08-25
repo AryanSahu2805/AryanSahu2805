@@ -80,6 +80,22 @@
 
 ---
 
+### 🚀 DevOps Pilot
+**A cloud-native monitoring and automation platform with AI-powered system insights for modern infrastructure teams**
+
+- **Tech Stack:** FastAPI, React 18, TypeScript, TailwindCSS, MongoDB, Redis, Docker, Kubernetes, Terraform, Prometheus, Grafana, Scikit-learn, XGBoost  
+- **Key Features:**
+  - Real-time infrastructure & application monitoring (CPU, memory, DB, containers, Kubernetes)  
+  - AI-powered anomaly detection, predictive scaling, root cause analysis, cost optimization  
+  - Smart alert routing with ML-enhanced false positive reduction  
+  - CI/CD pipeline monitoring with intelligent rollback automation  
+  - Role-based access control, JWT authentication, secure API-first architecture  
+- **Architecture:** Kubernetes-first, microservices, WebSocket real-time dashboards, plugin support  
+- **Observability:** Pre-built Grafana dashboards, SLA tracking, predictive analytics  
+- [🔗 View Project](https://github.com/AryanSahu2805/DevOps-Pilot)
+
+---
+
 ### 💬 AI-Based Customer Support Chatbot
 **Sophisticated AI-powered chatbot with advanced NLP processing and real-time analytics**
 
