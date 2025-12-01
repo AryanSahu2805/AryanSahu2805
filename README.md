@@ -96,19 +96,21 @@
 
 ---
 
-### 💬 AI-Based Customer Support Chatbot
-**Sophisticated AI-powered chatbot with advanced NLP processing and real-time analytics**
+### 🎵 Vibzcheck – Collaborative Music & Voting-Based Playlist App
+**A social, real-time music collaboration platform where users create shared playlists, vote on songs, chat live, and enjoy seamless Spotify integration with offline preview support**
 
-- **Tech Stack:** Python, Flask, OpenAI API, TensorFlow, SQLite  
+- **Tech Stack:** Flutter, Dart, Firebase (Auth, Firestore, FCM), Spotify Web API, Cloudinary, Riverpod
 - **Key Features:**
-  - Intelligent intent classification with TensorFlow NLP processing  
-  - Real-time chat with typing indicators and smooth animations  
-  - Performance optimization achieving 40% reduction in response time  
-  - Advanced analytics dashboard with live metrics  
-  - Mobile-responsive design with accessibility features  
-- **Performance:** 99.9% uptime, handles 1000+ monthly queries  
-- **AI Capabilities:** Context-aware conversations, sentiment analysis, auto-scaling  
-- [🔗 View Project](https://github.com/AryanSahu2805/AI-Based-Chatbot-for-Customer-Support)
+  - Real-time collaborative playlists with room sharing
+  - Song voting system with automatic reordering
+  - Spotify OAuth 2.0 search and 30s preview playback
+  - Offline preview caching for seamless experience
+  - Live chat rooms with avatars and timestamps
+  - AI-powered mood & genre tagging using audio features
+  - User customization, analytics, and activity tracking
+- **Performance:** Supports 500+ active users with smooth real-time synchronization and optimized Firestore queries
+- **Architecture:** Event-driven, real-time Firestore streams, token-refresh Spotify integration, and modular Riverpod state management
+- [🔗 View Project](https://github.com/AryanSahu2805/Vibzcheck)
 
 ---
 
